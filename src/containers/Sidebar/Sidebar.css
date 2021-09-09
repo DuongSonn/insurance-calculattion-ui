@@ -1,0 +1,13 @@
+.left-side-bar {
+    overflow: auto;
+    height: 100vh;
+    position: sticky;
+    left: 0;
+    top: 0;
+}
+
+.left-side-bar .logo {
+    height: 32px;
+    margin: 16px;
+    background: rgba(255, 255, 255, 0.3);
+}
